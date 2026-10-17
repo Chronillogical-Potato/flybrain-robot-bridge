@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="assets/hNXbI.png" alt="FlyBrain Robot Bridge — from visual signals to physical motion" width="100%">
+<div align="center"><img src="assets/architecture.svg" alt="FlyBrain Robot Bridge — camera and IMU signals to robot motion" width="100%">
 
 # FlyBrain Robot Bridge
 
